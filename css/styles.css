@@ -1,0 +1,15 @@
+.table{
+    margin: 50px; 
+    /* padding: 30px; */
+    /* border: 3cm; */
+}
+
+.ul-list {
+    font: 600;
+    size: 44;
+    background-color: blue;
+    border: 20px;
+    /* border-top: 500px; */
+    border-color: brown;
+    /* margin: 100px; */
+}
